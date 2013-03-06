@@ -11,6 +11,12 @@ the color scheme you'd like to use.
 $ git clone git@github.com:chrishunt/color-schemes.git
 ```
 
+To test that the color scheme is working as expected, run `colorscheme.sh`
+
+```bash
+$ bash colorscheme.sh
+```
+
 ## Railscasts Theme
 
 ![](https://raw.github.com/chrishunt/color-schemes/master/railscasts/screenshot.png)
