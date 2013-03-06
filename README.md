@@ -8,7 +8,7 @@ To get started, clone the repository to your machine and follow the steps for
 the color scheme you'd like to use.
 
 ```bash
-git clone git@github.com:chrishunt/color-schemes.git
+$ git clone git@github.com:chrishunt/color-schemes.git
 ```
 
 ## Railscasts Theme
