@@ -17,7 +17,7 @@ git clone git@github.com:chrishunt/color-schemes.git
 
 **Vim** | [Base16](https://github.com/chriskempson/base16-vim), by Chris Kempson
 
-    $ cp base16-railscasts.vim ~/.vim/colors/
+    $ cp railscasts/base16-railscasts.vim ~/.vim/colors/
     $ vim ~/.vimrc
 
       " ~/.vimrc
@@ -41,7 +41,7 @@ git clone git@github.com:chrishunt/color-schemes.git
 
 **iTerm2** | [Base16](https://github.com/chriskempson/base16-iterm2), by Chris Kempson
 
-    $ open base16-railscasts.dark.itermcolors  # adds to iTerm color list
+    $ open railscasts/base16-railscasts.dark.itermcolors  # adds to iTerm color list
     $ vi ~/.tmux.conf
 
       # ~/.tmux.conf
@@ -63,7 +63,7 @@ git clone git@github.com:chrishunt/color-schemes.git
 
 **Vim** | [Vimbrant](https://bitbucket.org/thayerwilliams/vimbrant/src/8abddd01c05e/vimbrant.vim), by Thayer Williams
 
-    $ cp vimbrant.vim ~/.vim/colors/vimbrant.vim
+    $ cp thayer/vimbrant.vim ~/.vim/colors/vimbrant.vim
     $ vim ~/.vimrc
 
       " ~/.vimrc
@@ -74,7 +74,7 @@ git clone git@github.com:chrishunt/color-schemes.git
 
 **iTerm2** | [Thayer (Vimbrant clone)](https://github.com/baskerville/iTerm-2-Color-Themes/blob/master/thayer.itermcolors), by Bastien Dejean
 
-    $ open thayer.itermcolors  # adds to iTerm color list
+    $ open thayer/thayer.itermcolors  # adds to iTerm color list
     $ vi ~/.tmux.conf
 
       # ~/.tmux.conf
