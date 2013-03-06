@@ -1,6 +1,6 @@
-# Vim/iTerm2 Colorschemes
+# Vim/iTerm2 Color Schemes
 
-Here are some colorschemes (by other people) I've used for an extended
+Here are some color schemes (created by other people) I've used for an extended
 period of time and like. I am keeping them here as a reference to share with
 others and make it easier for me to switch back in the future.
 
@@ -8,12 +8,12 @@ To get started, clone the repository to your machine and follow the steps for
 the color scheme you'd like to use.
 
 ```bash
-git clone git@github.com:chrishunt/colorschemes.git
+git clone git@github.com:chrishunt/color-schemes.git
 ```
 
 ## Railscasts Theme
 
-![](https://raw.github.com/chrishunt/colorschemes/master/railscasts/screenshot.png)
+![](https://raw.github.com/chrishunt/color-schemes/master/railscasts/screenshot.png)
 
 **Vim** | [Base16](https://github.com/chriskempson/base16-vim), by Chris Kempson
 
@@ -59,7 +59,7 @@ git clone git@github.com:chrishunt/colorschemes.git
 
 ## Thayer Theme
 
-![](https://raw.github.com/chrishunt/colorschemes/master/thayer/screenshot.png)
+![](https://raw.github.com/chrishunt/color-schemes/master/thayer/screenshot.png)
 
 **Vim** | [Vimbrant](https://bitbucket.org/thayerwilliams/vimbrant/src/8abddd01c05e/vimbrant.vim), by Thayer Williams
 
