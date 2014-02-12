@@ -1,8 +1,8 @@
 # Vim/iTerm2 Color Schemes
 
-Here are some color schemes (created by other people) I've used for an extended
-period of time and like. I am keeping them here as a reference to share with
-others and make it easier for me to switch back in the future.
+Here are some color schemes I've used for an extended period of time and like.
+I am keeping them here as a reference to share with others and make it easier
+for me to switch back in the future.
 
 To get started, clone the repository to your machine and follow the steps for
 the color scheme you'd like to use.
@@ -11,10 +11,10 @@ the color scheme you'd like to use.
 $ git clone git@github.com:chrishunt/color-schemes.git
 ```
 
-To test that the color scheme is working as expected, run `colorscheme.sh`
+To test your color scheme:
 
 ```bash
-$ bash colorscheme.sh
+$ ./script/test
 ```
 
 ## Railscasts Theme
