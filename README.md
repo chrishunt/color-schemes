@@ -47,7 +47,7 @@ $ ./script/test
 
 **iTerm2** | [Base16](https://github.com/chriskempson/base16-iterm2), by Chris Kempson
 
-    $ open railscasts/base16-railscasts.dark.itermcolors  # adds to iTerm color list
+    $ open railscasts/base16-railscasts-custom.dark.256.itermcolors  # adds to iTerm color list
     $ vi ~/.tmux.conf
 
       # ~/.tmux.conf
