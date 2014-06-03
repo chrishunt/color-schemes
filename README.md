@@ -38,11 +38,11 @@ $ ./script/test
       highlight CursorLine   ctermbg=236
       highlight StatusLineNC ctermbg=238 ctermfg=0
       highlight StatusLine   ctermbg=240 ctermfg=12
-      highlight IncSearch    ctermbg=0   ctermfg=3
-      highlight Search       ctermbg=0   ctermfg=9
+      highlight IncSearch    ctermbg=3   ctermfg=1
+      highlight Search       ctermbg=1   ctermfg=3
       highlight Visual       ctermbg=3   ctermfg=0
       highlight Pmenu        ctermbg=240 ctermfg=12
-      highlight PmenuSel     ctermbg=0   ctermfg=3
+      highlight PmenuSel     ctermbg=3   ctermfg=1
       highlight SpellBad     ctermbg=0   ctermfg=1
 
 **iTerm2** | [Base16](https://github.com/chriskempson/base16-iterm2), by Chris Kempson
